@@ -1,0 +1,10 @@
+login admin: 
+mail: admin@gmail.com  
+mot de passe : Admin
+
+
+login utilisateur : 
+mail : isagi@gmail.com
+mot de passe: isagi
+
+vous pouvez créer un compte utilisateur si vous le souhaitez.
